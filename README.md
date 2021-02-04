@@ -13,3 +13,9 @@ Aqui no Pagar.me compartilhamos diariamente uma série de materiais de referênc
     - [Livros](conteudos/QUALIDADE.md#blue_book-livros)
     - [Automação de Testes](conteudos/QUALIDADE.md#computer-automação-de-testes)
     - [Testes de Performance](conteudos/QUALIDADE.md#chart_with_upwards_trend-testes-de-performance)
+
+- [Go](conteudos/GOLANG.md)
+    - [Livros](conteudos/GOLANG.md#blue_book-livros)
+    - [YouTube](conteudos/GOLANG.md#movie_camera-youtube)
+    - [Podcast](conteudos/GOLANG.md#microphone-podcast)
+    - [Newsletter](conteudos/GOLANG.md#newspaper-newsletter)
